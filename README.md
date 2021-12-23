@@ -14,19 +14,25 @@
 ---
 ## **How to use git**
 
+1. First we have to install git from [main page](https://git-scm.com). 
+
 1. In order to use git we have to make registration [_here_](https://github.com)
 
 1. When we have registration we have to creat a repositori [how to creat repositori](howtocreaterepositori.md)
+----
 
-1. 
-
-
-
-
-
+ # **Git comands** [here](Gitcommands.md)
+ 
+ # **Lastes Git version** [Git v2.34.1](Gitversion.md)
 
 
 
 
-## **Git commands**
+
+
+
+
+
+
+
 
